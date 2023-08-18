@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: It's the slowest one in random numbers (so it has to be a Bubble or Selection sort) but it's faster in sorted numbers so it's a Bubble sort
+
+sort2 uses: Merge Sort
+
+How do you know?: It's the fastest one in random numbers but it's slightly slower in sorted so it's merge sort
+
+sort3 uses: Selection sort
+
+How do you know?: It's the slowest one in sorted numbers and random numbers (as omega n2 says)
